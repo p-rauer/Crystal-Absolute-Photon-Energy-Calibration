@@ -1,4 +1,10 @@
 
+__pycache__/
+*.py[cod]
+.claude/
+_*.log
+_*.png
+
 2023data.nosync/20230524-08_50_43_cor2d_en_calib_calc.npz
 2023data.nosync/20230524-08_50_43_cor2d.npz_status.txt
 2023data.nosync/20230524-08_50_43_cor2d.npz
